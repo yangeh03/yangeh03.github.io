@@ -1,1 +1,61 @@
-yangenhui2025.9.7eeeee
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人主页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        .container {
+            margin: 20px;
+        }
+        .pdf-container {
+            width: 100%;
+            height: 600px;
+            border: 1px solid #ddd;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>欢迎来到我的个人主页</h1>
+    <p>这里是我的简历和项目展示</p>
+</header>
+
+<div class="container">
+    <h2>我的简历 (PDF)</h2>
+    <!-- 这里的 pdf 文件路径可以替换为实际文件的路径 -->
+    <div class="pdf-container">
+        <embed src="your-resume.pdf" type="application/pdf" width="100%" height="100%">
+        <!-- 或者使用 iframe 来嵌入 PDF -->
+        <!-- <iframe src="your-resume.pdf" width="100%" height="100%"></iframe> -->
+    </div>
+</div>
+
+<footer>
+    <p>版权所有 &copy; 2025</p>
+</footer>
+
+</body>
+</html>

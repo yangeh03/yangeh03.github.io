@@ -39,14 +39,7 @@
     "href": "readme.html",
     "title": "Hello, I'm Yang Enhui!",
     "section": "",
-    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
-  },
-  {
-    "objectID": "readme.html#如何生成个人主页",
-    "href": "readme.html#如何生成个人主页",
-    "title": "Hello, I'm Yang Enhui!",
-    "section": "",
-    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
+    "text": "CV"
   },
   {
     "objectID": "projects.html",
@@ -137,14 +130,14 @@
     "href": "courses.html",
     "title": "📖 Courses for Fall 2025 @ HKUST(GZ)",
     "section": "",
-    "text": "Below is the list of courses I have selected for the Fall 2025 semester:\n\n\n\nINFH5000 — Information Science and Technology: Essentials and Trends Instructor: Prof. LI, Hongyu, Prof. TANG, Nan, etc\nFUNH5000 — Introduction to Function Hub for Sustainable Future\nInstructor: Prof. YANG, Qichun\nUCMP6050A — Project-driven Collaborative Design Thinking Instructor: Prof. Ning LI\nPLED5001 — Communicating Research in English\nInstructor: Prof. Bing LI\nDSAA6000R — Data Intelligence: When Databases Meet AI\nInstructor: Prof. Yuyu LUO\nAIAA5032 — Foundations of Artificial Intelligence\nInstructor: Prof. Li LIU\nPLED6770 — Professional Development for Research Postgraduate Students\nPLED6800 — Introduction to Teaching and Learning in Higher Education\n\n\nIf you want to know more about each course, please contact me or visit the HKUST(GZ) course catalog."
+    "text": "Below is the list of courses I have selected for the Fall 2025 semester:\n\n\n\nINFH5000 — Information Science and Technology: Essentials and Trends Instructor: Prof. LI, Hongyu, Prof. TANG, Nan, Prof. Xin WANG, Prof. Yuyang WANG\nFUNH5000 — Introduction to Function Hub for Sustainable Future\nInstructor: Prof. YANG, Qichun\nUCMP6050A — Project-driven Collaborative Design Thinking Instructor: Prof. Ning LI\nPLED5001 — Communicating Research in English\nInstructor: Prof. Bing LI\nDSAA6000R — Data Intelligence: When Databases Meet AI\nInstructor: Prof. Yuyu LUO\nAIAA5032 — Foundations of Artificial Intelligence\nInstructor: Prof. Li LIU\nPLED6770 — Professional Development for Research Postgraduate Students\nPLED6800 — Introduction to Teaching and Learning in Higher Education\n\n\nIf you want to know more about each course, please contact me or visit the HKUST(GZ) course catalog."
   },
   {
     "objectID": "courses.html#course-list",
     "href": "courses.html#course-list",
     "title": "📖 Courses for Fall 2025 @ HKUST(GZ)",
     "section": "",
-    "text": "INFH5000 — Information Science and Technology: Essentials and Trends Instructor: Prof. LI, Hongyu, Prof. TANG, Nan, etc\nFUNH5000 — Introduction to Function Hub for Sustainable Future\nInstructor: Prof. YANG, Qichun\nUCMP6050A — Project-driven Collaborative Design Thinking Instructor: Prof. Ning LI\nPLED5001 — Communicating Research in English\nInstructor: Prof. Bing LI\nDSAA6000R — Data Intelligence: When Databases Meet AI\nInstructor: Prof. Yuyu LUO\nAIAA5032 — Foundations of Artificial Intelligence\nInstructor: Prof. Li LIU\nPLED6770 — Professional Development for Research Postgraduate Students\nPLED6800 — Introduction to Teaching and Learning in Higher Education\n\n\nIf you want to know more about each course, please contact me or visit the HKUST(GZ) course catalog."
+    "text": "INFH5000 — Information Science and Technology: Essentials and Trends Instructor: Prof. LI, Hongyu, Prof. TANG, Nan, Prof. Xin WANG, Prof. Yuyang WANG\nFUNH5000 — Introduction to Function Hub for Sustainable Future\nInstructor: Prof. YANG, Qichun\nUCMP6050A — Project-driven Collaborative Design Thinking Instructor: Prof. Ning LI\nPLED5001 — Communicating Research in English\nInstructor: Prof. Bing LI\nDSAA6000R — Data Intelligence: When Databases Meet AI\nInstructor: Prof. Yuyu LUO\nAIAA5032 — Foundations of Artificial Intelligence\nInstructor: Prof. Li LIU\nPLED6770 — Professional Development for Research Postgraduate Students\nPLED6800 — Introduction to Teaching and Learning in Higher Education\n\n\nIf you want to know more about each course, please contact me or visit the HKUST(GZ) course catalog."
   },
   {
     "objectID": "books.html",

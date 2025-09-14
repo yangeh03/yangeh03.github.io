@@ -15,7 +15,7 @@ $theme-darkcoffee2: #78504b;
 $theme-darkcoffee3: #632e0d;
 $theme-milkcoffee0: #f2ece3;
 $theme-milkcoffee3: #cca79f;
-$theme-milkcoffee2: #b98f68;
+$theme-milkcoffee2: #333333;
 $theme-milkcoffee1: #9e736a;
 $theme-mocha1: #7f2606;
 $theme-mocha2: #9a4c28;
@@ -42,7 +42,7 @@ $code-block-bg-alpha: -0.8; /* 代码块背景的透明度 */
 $background-color: $theme-milkcoffee0; /* 页面背景色 */
 
 /* 导航栏 */
-$navbar-bg: $theme-darkgreen1; /* 导航栏背景颜色 */
+// $navbar-bg: $theme-darkgreen1; /* 导航栏背景颜色 */
 
 /* 提示框颜色 */
 $callout-color-note: $theme-darkgreen2; /* 提示框的注释颜色 */
@@ -148,3 +148,29 @@ h4 {
   background-size: 1em;
   background-position: 1em 0.5em;
 }
+
+// ...existing code...
+
+.grid > div {
+  display: flex;
+  align-items: center;
+  min-height: 260px; // 可根据实际内容调整高度
+}
+
+.grid > div.g-col-md-5 {
+  justify-content: center;
+}
+
+.grid > div.g-col-md-5 img {
+  max-width: 100%;
+  max-height: 180px; // 控制图片最大高度
+  object-fit: contain;
+  display: block;
+}
+
+// 只让图片部分居中，描述部分恢复默认纵向排列
+.grid > div.g-col-md-7 {
+  display: block; // 或 flex-direction: column;
+}
+
+// ...existing code...

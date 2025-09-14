@@ -1,0 +1,31 @@
+# 📖 Courses for Fall 2025 @ HKUST(GZ)
+
+Below is the list of courses I have selected for the Fall 2025 semester:
+
+## Course List
+
+- **INFH5000** &mdash; Information Science and Technology: Essentials and Trends 
+  *Instructor: [Prof. LI, Hongyu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Hongyu/hongyuli), [Prof. TANG, Nan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/TANG-Nan/nantang), etc*
+
+- **FUNH5000** &mdash; Introduction to Function Hub for Sustainable Future  
+  *Instructor: [Prof. YANG, Qichun](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YANG-Qichun/qichunyang)*
+
+- **UCMP6050A** &mdash; Project-driven Collaborative Design Thinking 
+  *Instructor: [Prof. Ning LI](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Ning/nl)*
+
+- **PLED5001** &mdash; Communicating Research in English  
+  *Instructor: [Prof. Bing LI](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LI-Bing/bingli)*
+
+- **DSAA6000R** &mdash; Data Intelligence: When Databases Meet AI  
+  *Instructor: [Prof. Yuyu LUO](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LUO-Yuyu/yuyuluo)*
+
+- **AIAA5032** &mdash; Foundations of Artificial Intelligence  
+  *Instructor: [Prof. Li LIU](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/LIU-Li/avrillliu)*
+
+- **PLED6770** &mdash; Professional Development for Research Postgraduate Students 
+
+- **PLED6800** &mdash; Introduction to Teaching and Learning in Higher Education   
+
+---
+
+*If you want to know more about each course, please contact me or visit the [HKUST(GZ) course catalog](https://fytgs.hkust-gz.edu.cn/programs/artificial-intelligence-5).*

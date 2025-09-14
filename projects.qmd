@@ -1,0 +1,174 @@
+---
+title: "📣 Projects"
+---
+
+## 2025
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/llm4genAbstract.png)](https://github.com/yangeh03/llm4genAbstract)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/llm4genAbstract" style="color:inherit;text-decoration:none;">
+    A document summary generation system based on LLM
+  </a>
+</p>
+
+`2025.02-2025.06`
+
+This project is a document summary generation system based on large language models, aiming to provide users with efficient, accurate and flexible tools for extracting the core content of documents. It is suitable for scenarios such as academic paper summaries, business report analyses, and news aggregation.
+:::
+
+
+:::
+
+## 2024
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/FileMetaSearchOpt.png)](https://github.com/yangeh03/FileMetaSearchOpt)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/FileMetaSearchOpt" style="color:inherit;text-decoration:none;">
+    Optimization of file metadata lookup based on inverted indexes
+  </a>
+</p>
+
+`2024`
+
+By introducing an inverted index outside the directory tree structure and combining it with Varint encoding compression, read-write lock mechanism and thread-safe data structure, efficient query and concurrent optimization in large-scale file systems have been achieved.
+:::
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/PMCNet.png)](https://github.com/yangeh03/PMCNet-pytorch)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/PMCNet-pytorch" style="color:inherit;text-decoration:none;">
+    PMCNet-pytorch
+  </a>
+</p>
+
+`2024`
+
+The core work of the project is to reimplement the original PMCNet model implemented by TensorFlow based on PyTorch 2.x framework, complete model training, performance verification and ONNX format conversion, so as to improve the engineering practicability and deployment efficiency of the model.
+:::
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/PaperScroll​.jpg)](https://github.com/yangeh03/android_backend_flask)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/android_backend_flask" style="color:inherit;text-decoration:none;">
+    PaperScroll​(An academic paper information Android APP)
+  </a>
+</p>
+
+`2024`
+
+Designed a mobile application based on a C/S distributed architecture. The server automatically retrieves the latest academic papers from online repositories at regular intervals for user access within the app. Integrated features include word cloud analysis, recommendation algorithms, and AIGC, enabling users to browse paper information on mobile devices and leverage ChatGPT for keyword extraction and article summarization.
+:::
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/XiaomaOJ.png)](https://github.com/yangeh03/xiaomaOj-backend)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/xiaomaOj-backend" style="color:inherit;text-decoration:none;">
+    XiaomaOJ
+  </a>
+</p>
+
+`2024`
+
+xiaomaOj is an online test judgment system based on Spring Boot. It adopts microservice architecture and supports functional modules such as test management, user management, test judgment service, gateway and so on.
+:::
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/TCP.png)](https://github.com/yangeh03/UDP2TCP)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/UDP2TCP" style="color:inherit;text-decoration:none;">
+    UDP2TCP
+  </a>
+</p>
+
+`2024`
+
+This project realizes reliable data transmission in user space based on UDP. The functions include connection establishment, error detection, retransmission confirmation and so on. The flow control adopts the stop-wait mechanism to complete the transmission of the given test file.
+:::
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/tableau-viz-china-educator-salary.png)](https://github.com/yangeh03/tableau-viz-china-educator-salary)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/tableau-viz-china-educator-salary" style="color:inherit;text-decoration:none;">
+    Tableau-viz-china-educator-salary
+  </a>
+</p>
+
+`2024`
+
+This project studies the salary levels of foreign teachers in various regions of China. Data is collected through multiple channels such as Python crawlers, the National Bureau of Statistics, and Kaggle, aiming to reveal salary differences and influencing factors, and provide support for education policy formulation, foreign teacher career choices, and educational balance.
+:::
+
+:::
+
+## 2023
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/Compiler.png)](https://github.com/yangeh03/Compiler)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/Compiler" style="color:inherit;text-decoration:none;">
+    Simple Compiler
+  </a>
+</p>
+
+`2023`
+
+Design a compiler to realize four compilation processes of lexical analysis, syntactic analysis, semantic analysis and intermediate code generation for source program text files.
+:::
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/Pi.png)](https://github.com/yangeh03/PiVision-MeasuringPlatform)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/PiVision-MeasuringPlatform" style="color:inherit;text-decoration:none;">
+    PiVision-MeasuringPlatform
+  </a>
+</p>
+
+`2023`
+
+This project is a parts measurement platform based on Raspberry PI and machine vision, integrating functions such as mechanical structure design, motion control, and visual recognition. It is suitable for automated parts inspection and measurement.
+:::
+
+::: {.g-col-12 .g-col-md-5}
+[![](projects_img/Pi-APP.png)](https://github.com/yangeh03/PiVision-MeasuringPlatform-App
+)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/PiVision-MeasuringPlatform-App
+" style="color:inherit;text-decoration:none;">
+    PiVision-MeasuringPlatform-App
+  </a>
+</p>
+
+`2023`
+
+This project is a parts measurement platform based on Raspberry PI and machine vision, integrating functions such as mechanical structure design, motion control, and visual recognition. It is suitable for automated parts inspection and measurement.
+:::
+
+:::

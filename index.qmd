@@ -51,7 +51,7 @@ I am a First-Year Mphil at HKUST(GZ) now.
 
 ## Education
 
-- 2025-present: Mphil in AI, Hong Kong University of Science and Technology(Guang zhou),GuangZhou, specializing in LLM
+- 2025-present: Mphil in AI, Hong Kong University of Science and Technology(Guang zhou),GuangZhou, specializing in LLM/Agent Memory
 - 2023.06-2023.09: Internship in China National Petroleum Corporation
 - 2021-2025: Bachelor of Engineering, Hebei University of Technology, TianJin, majoring in Computer Science.
 

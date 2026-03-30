@@ -34,7 +34,7 @@ Talk2DB is a LangGraph-based Text-to-SQL agent designed to improve the stability
 ::: {.g-col-12 .g-col-md-7}
 <p style="font-size:1.5rem"> 
   <a href="https://github.com/yangeh03/llm4genAbstract" style="color:inherit;text-decoration:none;">
-    A document summary generation system based on LLM
+    Hierarchical Summarization and Multi-Document Analysis System for Long Documents
   </a>
 </p>
 

@@ -7,6 +7,21 @@ title: "📣 Projects"
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-5}
+[![](projects_img/KnowMeTutor-deeptutor-architecture.png)](https://github.com/yangeh03/KnowMeTutor)
+:::
+::: {.g-col-12 .g-col-md-7}
+<p style="font-size:1.5rem"> 
+  <a href="https://github.com/yangeh03/KnowMeTutor" style="color:inherit;text-decoration:none;">
+    KnowMeTutor: Multi-Agents Intelligent Tutoring System for Personalized Learning
+  </a>
+</p>
+
+`2026.02-2026.04`
+
+KnowMeTutor is an agent-native personalized tutoring system that unifies chat, deep problem solving, quiz generation, deep research, and math animation in a shared workspace. It combines knowledge-base grounded learning, guided study flows, persistent memory, and autonomous TutorBots to support adaptive and continuously personalized learning.
+:::
+
+::: {.g-col-12 .g-col-md-5}
 [![](projects_img/text2sql.png)](https://github.com/yangeh03/text2sql)
 :::
 ::: {.g-col-12 .g-col-md-7}

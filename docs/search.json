@@ -46,14 +46,14 @@
     "href": "projects.html",
     "title": "📣 Projects",
     "section": "",
-    "text": "Talk2DB: A LangGraph-based Text-to-SQL Agent \n\n2026.03\nTalk2DB is a LangGraph-based Text-to-SQL agent designed to improve the stability and semantic correctness of complex SQL generation. It combines query planning, SQL-to-text semantic validation, and execution checking in a closed-loop self-correction pipeline, and supports evaluation on the Spider and BIRD benchmarks."
+    "text": "KnowMeTutor: Multi-Agents Intelligent Tutoring System for Personalized Learning \n\n2026.02-2026.04\nKnowMeTutor is an agent-native personalized tutoring system that unifies chat, deep problem solving, quiz generation, deep research, and math animation in a shared workspace. It combines knowledge-base grounded learning, guided study flows, persistent memory, and autonomous TutorBots to support adaptive and continuously personalized learning.\n\n\n\n\n\n\n Talk2DB: A LangGraph-based Text-to-SQL Agent \n\n2026.03\nTalk2DB is a LangGraph-based Text-to-SQL agent designed to improve the stability and semantic correctness of complex SQL generation. It combines query planning, SQL-to-text semantic validation, and execution checking in a closed-loop self-correction pipeline, and supports evaluation on the Spider and BIRD benchmarks."
   },
   {
     "objectID": "projects.html#section",
     "href": "projects.html#section",
     "title": "📣 Projects",
     "section": "",
-    "text": "Talk2DB: A LangGraph-based Text-to-SQL Agent \n\n2026.03\nTalk2DB is a LangGraph-based Text-to-SQL agent designed to improve the stability and semantic correctness of complex SQL generation. It combines query planning, SQL-to-text semantic validation, and execution checking in a closed-loop self-correction pipeline, and supports evaluation on the Spider and BIRD benchmarks."
+    "text": "KnowMeTutor: Multi-Agents Intelligent Tutoring System for Personalized Learning \n\n2026.02-2026.04\nKnowMeTutor is an agent-native personalized tutoring system that unifies chat, deep problem solving, quiz generation, deep research, and math animation in a shared workspace. It combines knowledge-base grounded learning, guided study flows, persistent memory, and autonomous TutorBots to support adaptive and continuously personalized learning.\n\n\n\n\n\n\n Talk2DB: A LangGraph-based Text-to-SQL Agent \n\n2026.03\nTalk2DB is a LangGraph-based Text-to-SQL agent designed to improve the stability and semantic correctness of complex SQL generation. It combines query planning, SQL-to-text semantic validation, and execution checking in a closed-loop self-correction pipeline, and supports evaluation on the Spider and BIRD benchmarks."
   },
   {
     "objectID": "projects.html#section-1",
